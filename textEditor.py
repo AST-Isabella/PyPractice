@@ -1,5 +1,6 @@
 # Here is my first try at a GUI in Python, using the YouTube tutorial by DiogoTheCoder
 # This script can create a new file, save As, open saved files, and Exit(Quit)
+#modification
 
 from tkinter import Tk, scrolledtext, Menu, filedialog, END, messagebox
 import tkinter.scrolledtext as ScrolledText
